@@ -8754,7 +8754,9 @@ hr.light{
     #mainNav.navbar-scrolled{
         -webkit-box-shadow:0 .5rem 1rem rgba(0,0,0,.15);
         box-shadow:0 .5rem 1rem rgba(0,0,0,.15);
-        background-color:#fff
+        background-color:#fff;
+        /*min-height: 20px;*/
+        /*height: 20px;*/
     }
     #mainNav.navbar-scrolled .navbar-brand{
         color:#212529
